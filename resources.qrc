@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/card-game.png</file>
+        <file>resources/chakra.png</file>
+        <file>resources/favourite.png</file>
+        <file>resources/hexagon.png</file>
+        <file>resources/navigation.png</file>
+        <file>resources/octahedron.png</file>
+        <file>resources/pyramid.png</file>
+        <file>resources/trefoil.png</file>
+        <file>resources/memory.png</file>
+        <file>resources/maple-leaf.png</file>
+        <file>resources/background.png</file>
+    </qresource>
+</RCC>
